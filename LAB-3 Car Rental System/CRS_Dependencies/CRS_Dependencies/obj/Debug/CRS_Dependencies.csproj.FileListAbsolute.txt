@@ -1,6 +1,0 @@
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\bin\Debug\CRS_Dependencies.dll
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\bin\Debug\CRS_Dependencies.pdb
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.csproj.AssemblyReference.cache
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.csproj.CoreCompileInputs.cache
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.dll
-C:\Users\TahlilsZenBook\Desktop\c#\CRS_Dependencies\CRS_Dependencies\obj\Debug\CRS_Dependencies.pdb
