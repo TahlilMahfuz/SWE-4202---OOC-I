@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e09b775b-ffca-4646-852f-1788efab0bf0": {
+      "ProjectGuid": "e09b775b-ffca-4646-852f-1788efab0bf0",
+      "DisplayName": "Hotel Management System Extended",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
