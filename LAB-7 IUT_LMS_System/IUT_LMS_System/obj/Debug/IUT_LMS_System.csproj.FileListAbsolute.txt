@@ -1,0 +1,11 @@
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\bin\Debug\IUT_LMS_System.exe.config
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\bin\Debug\IUT_LMS_System.exe
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\bin\Debug\IUT_LMS_System.pdb
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.csproj.AssemblyReference.cache
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.Form1.resources
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.Properties.Resources.resources
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.csproj.GenerateResource.cache
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.csproj.CoreCompileInputs.cache
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.exe
+C:\Users\TahlilsZenBook\Desktop\c#\IUT_LMS_System\IUT_LMS_System\obj\Debug\IUT_LMS_System.pdb
