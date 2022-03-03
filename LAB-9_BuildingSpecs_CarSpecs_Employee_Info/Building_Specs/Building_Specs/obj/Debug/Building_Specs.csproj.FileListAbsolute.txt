@@ -1,0 +1,3 @@
+C:\Users\TahlilsZenBook\Desktop\c#\Building_Specs\Building_Specs\obj\Debug\Building_Specs.csproj.AssemblyReference.cache
+C:\Users\TahlilsZenBook\Desktop\c#\Building_Specs\Building_Specs\obj\Debug\Building_Specs.csproj.SuggestedBindingRedirects.cache
+C:\Users\TahlilsZenBook\Desktop\c#\Building_Specs\Building_Specs\obj\Debug\Building_Specs.csproj.CoreCompileInputs.cache

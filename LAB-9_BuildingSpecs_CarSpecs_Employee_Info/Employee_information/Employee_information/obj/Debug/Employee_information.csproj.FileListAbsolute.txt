@@ -1,0 +1,8 @@
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\bin\Debug\Employee_information.exe.config
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\bin\Debug\Employee_information.exe
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\bin\Debug\Employee_information.pdb
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\obj\Debug\Employee_information.csproj.AssemblyReference.cache
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\obj\Debug\Employee_information.csproj.SuggestedBindingRedirects.cache
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\obj\Debug\Employee_information.csproj.CoreCompileInputs.cache
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\obj\Debug\Employee_information.exe
+C:\Users\TahlilsZenBook\Desktop\c#\Employee_information\Employee_information\obj\Debug\Employee_information.pdb
