@@ -1,0 +1,11 @@
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\bin\Debug\FileHandlingInCSharp.exe.config
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\bin\Debug\FileHandlingInCSharp.exe
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\bin\Debug\FileHandlingInCSharp.pdb
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.csproj.AssemblyReference.cache
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.Form1.resources
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.Properties.Resources.resources
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.csproj.GenerateResource.cache
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.exe
+C:\Users\TahlilsZenBook\Desktop\c#\FileHandlingInCSharp\FileHandlingInCSharp\obj\Debug\FileHandlingInCSharp.pdb

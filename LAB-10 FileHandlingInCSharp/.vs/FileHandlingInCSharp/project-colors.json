@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46b58923-f5db-4bb0-b583-f1448e3dcdda": {
+      "ProjectGuid": "46b58923-f5db-4bb0-b583-f1448e3dcdda",
+      "DisplayName": "FileHandlingInCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
