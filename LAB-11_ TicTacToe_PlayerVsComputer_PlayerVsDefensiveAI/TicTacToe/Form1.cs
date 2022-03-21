@@ -757,15 +757,15 @@ namespace TicTacToe
             {
                 return 0;
             }
-            else if (C.Text == E.Text && G.Text != "" && C.Text != "")
+            else if (C.Text == E.Text && G.Text == "" && C.Text != "")
             {
                 return 6;
             }
-            else if (G.Text == E.Text && C.Text != "" && G.Text != "")
+            else if (G.Text == E.Text && C.Text == "" && G.Text != "")
             {
                 return 2;
             }
-            else if (C.Text == G.Text && E.Text != "" && C.Text != "")
+            else if (C.Text == G.Text && E.Text == "" && C.Text != "")
             {
                 return 4;
             }
